@@ -11,7 +11,7 @@ A comprehensive mobile application built with React Native and Expo for managing
 - View results and grades
 - Access solutions to assignments
 
-### For Teachers
+### For Teachers ( username teacher , pw : 123 )
 - Add new student/teacher accounts
 - Add and manage marks
 - Manage attendance records
@@ -156,3 +156,4 @@ If you encounter any issues or have questions, please open an issue on GitHub.
 - Built with Expo and React Native
 - Icons and assets provided by the development team
 - Special thanks to the open-source community
+
