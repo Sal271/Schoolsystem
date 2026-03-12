@@ -156,4 +156,6 @@ If you encounter any issues or have questions, please open an issue on GitHub.
 - Built with Expo and React Native
 - Icons and assets provided by the development team
 - Special thanks to the open-source community
-
+## Video
+<!-- Failed to upload "IMG_1239.MP4" -->
+<!-- Failed to upload "IMG_1238.MP4" -->
